@@ -905,7 +905,8 @@ progress::-moz-progress-bar {
   top: 56px;
   left: 0;
   height: 5px;
-  display: block;
+  display: flex;
+  align-items: center;
 }
 
 .progress-bar {

@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Machine Learning Basics"
+date: 2023-06-30 14:33:00 +1000
+categories: deeplearning
+---
+Deep learning is a specific kind of machine learning. To understand deep learning
+well, one must have a solid understanding of the basic principles of machine learning.
+
+## 1. Learning Algorithms
+“A computer program is said to learn from experience E with respect to some
+class of tasks T and performance measure P, if its performance at tasks in T , as
+measured by P, improves with experience E."
+
+E:
+- Unsupervised Learning
+- Supervised Learning
+- Semi-supervised Learning
+- Reinforcement Learning
+
+P:
+- Depend on several factors
+  
+T:
+- Classification
+- Regression
+- Anatomy Prediction
+- 
+##

@@ -1,26 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Melbourne VIC
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently studying for a Bachelor of Information Technology at La Trobe University as an international student. I have a keen interest in Machine Learning and Data Science, as well as Web Development. Please feel free to reach my [Github](github.com/nminhquang380) and [Kaggle](https://www.kaggle.com/nminhquang380) accounts below to see more about my Data Science notebooks and other projects. In addition, I am passionate about writing and also have a blog on Facebook where I write some blog posts in Vietnamese.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In the meantime, I am working remotely as a freelance Backend Developer for Risikotek Ptd based on Singapore. I have experience as an intern Software Engineer at A.I.Soft Company in Vietnam, where I worked on two noteworthy projects related to AI, which I have shared on my Github.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am proud to have received scholarships for academic excellence three times in four semesters, and I was selected to become a member of the VMO team for my institute in Vietnam, although unfortunately, the competition was canceled due to the pandemic.
