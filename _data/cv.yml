@@ -8,7 +8,7 @@
     - name: Open to Work
       value: Data Scientist, AI Engineer, Data Engineer, Software Engineer
     - name: Skills
-      value: Data Analysis, Data Engineering, Machine Learning, Deep Learning, Python, REST APIs
+      value: Data Analysis, Data Engineering, Machine Learning, Deep Learning, NLP, Computer Vision, Python, REST APIs
 
 - title: Education
   type: time_table
@@ -19,7 +19,8 @@
       description:
         - Bachelor of Information Technology
         - Artificial Intelligence Major
-        - "WAM: 89"
+        - Academic Excellence Award in 2023
+        - "WAM: 87"
     - title: Bachelor
       institution: Posts and Telecommunications Institute of Technology
       year: 2022
@@ -31,11 +32,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Analyst Intern
+      institution: Whittlesea Community Connection
+      year: 2024
+      description:
+        - Feb 2024 - present
+        - Dashboard, Cleaning Data, Analysing Data, Visualizing Data
     - title: Backend Developer
       institution: RisikoTek Pte Ltd - Singapore
       year: 2023
       description:
-        - Oct 2023 - Present
+        - Oct 2023 - Jan 2024
         - Databases, Python, REST APIs
     - title: Software Engineer
       institution: A.I.Soft - Hanoi, Vietnam

@@ -22,7 +22,7 @@ Today is 12/26/2022. Soon, I will embark on a long journey that will greatly cha
 - Read more than 60 books. (Counting from 12/26/2022)
 - Find a job on my own. ✓
 - Work multiple part-time jobs. ✓
-- Have a job in the field in another country.
+- Have a job in the field in another country. ✓
 - Intern/work at a large company. (>250 employees)
 - Understand 10 different professions.
 - Learn about laws.
@@ -31,7 +31,7 @@ Today is 12/26/2022. Soon, I will embark on a long journey that will greatly cha
     - Understand the structure of different states.
         - Australia
         - Vietnam
-- Have my beloved one.
+- Have my beloved one. ✓
 - Take a photography course.
 - Participate in optional competitions. Hackathon… ✓
 - Participate in international youth activities.
@@ -40,17 +40,17 @@ Today is 12/26/2022. Soon, I will embark on a long journey that will greatly cha
 - Lead a group.
 - Have >1 good relationship with professors for exchange and support. ✓
 - Self-learn more than 3 courses online (related to the profession). ✓
-- Read more than 3 books in the field.
+- Read more than 3 books in the field. ✓
     - Hands-on Machine Learning
     - Data Science Handbook
     - Practical Statistics Book
 - Use a calendar regularly. (3 weeks)
 - Plan yearly -> monthly -> weekly -> daily.
     - Currently on weekly and daily planning.
-- Have a 6-month plan and follow it monthly.
+- Have a 6-month plan and follow it monthly. ✓
 - Exercise daily (for 3 months), even if only for 15 minutes. If unable to exercise, make up for it the next day. ✓ (+ Meditation, Journaling)
 - Know how to manage personal finances: allocate income.
-- Have a small investment (~$1000).
+- Have a small investment (~$1000). ✓
 - Know how to Create a business plan.
 - Understand the economy and how money flow operates.
     - Microeconomics

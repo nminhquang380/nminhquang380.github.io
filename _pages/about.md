@@ -16,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently studying for a Bachelor of Information Technology at La Trobe University as an international student. I have a keen interest in Machine Learning and Data Science, as well as Web Development. Please feel free to reach my [Github](github.com/nminhquang380) and [Kaggle](https://www.kaggle.com/nminhquang380) accounts below to see more about my Data Science notebooks and other projects. In addition, I am passionate about writing and also have a blog on Facebook where I write some blog posts in Vietnamese.
+I am an international student at La Trobe University, pursuing a Bachelor of Information Technology. My areas of interest include AI, Machine Learning, Web Development, and Deep Learning research, particularly in Natural Language Processing and Computer Vision. I am open to contributing to research and projects in these fields.
 
-In the meantime, I am working remotely as a freelance Backend Developer for Risikotek Ptd based on Singapore. I have experience as an intern Software Engineer at A.I.Soft Company in Vietnam, where I worked on two noteworthy projects related to AI, which I have shared on my Github.
+Currently, I am a Data Analyst Intern at Whittlesea Community Connection in Melbourne. Previously, I worked remotely as a freelance Backend Developer for Risikotek Ptd in Singapore until January 2024. I also have experience as an intern Software Engineer at A.I.Soft Company in Vietnam, where I worked on two AI projects shared on my GitHub.
 
-I am proud to have received scholarships for academic excellence three times in four semesters, and I was selected to become a member of the VMO team for my institute in Vietnam, although unfortunately, the competition was canceled due to the pandemic.
+I received three scholarships in four semesters at the Post and Telecommunication Institute of Technology (PTIT) in Hanoi, Vietnam. I also received the Provost's Commendation for academic excellence at La Trobe University in Melbourne in 2023.
+
+You can check out my Data Science notebooks and projects on my [Github](github.com/nminhquang380) account. Additionally, I enjoy writing blog posts in Vietnamese on Facebook.
